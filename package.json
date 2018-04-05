@@ -1,0 +1,19 @@
+{
+  "name": "asset-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-minify": "^2.1.0",
+    "gulp-rev": "^8.1.1",
+    "gulp-watch": "^5.0.0"
+  }
+}

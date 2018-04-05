@@ -1,0 +1,1 @@
+function sayHello(){alert("Hello")}alert("Hii"),alert("Hii Hello");
